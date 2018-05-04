@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "tower.data.unityweb",
+"asmCodeUrl": "tower.asm.code.unityweb",
+"asmMemoryUrl": "tower.asm.memory.unityweb",
+"asmFrameworkUrl": "tower.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
